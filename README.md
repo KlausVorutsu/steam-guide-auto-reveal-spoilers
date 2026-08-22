@@ -18,7 +18,7 @@ A Tampermonkey userscript to permanently display hidden spoiler images and text 
 
 *(Note: You must have a userscript manager like the [Tampermonkey extension](https://www.tampermonkey.net/) installed in your browser first.)*
 
-**▶ [Click here to install the script automatically](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/steam-spoiler-reveal.user.js)**  
+**▶ [Click here to install the script automatically]([https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/steam-spoiler-reveal.user.js](https://github.com/KlausVorutsu/steam-guide-auto-reveal-spoilers/raw/refs/heads/main/steam-spoiler-reveal.user.js))**  
 *(Make sure to replace the URL above with the actual raw link to your `.user.js` file!)*
 
 ### Manual Installation
